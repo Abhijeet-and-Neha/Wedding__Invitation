@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Wedding Invitation Studio//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:func-2026-12-11@abhijeet-neha-sheesh-mahal
+DTSTAMP:20261121T182223Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Chulmati\, Tel & Haldi: Abhijeet & Neha
+END:VEVENT
+BEGIN:VEVENT
+UID:wed-2026-12-12@abhijeet-neha-sheesh-mahal
+DTSTAMP:20261121T182223Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Baraat: Abhijeet & Neha
+LOCATION:Sona Vatika\, VIP Road\, Raipur (C.G)
+END:VEVENT
+BEGIN:VEVENT
+UID:rec-2026-12-13@abhijeet-neha-sheesh-mahal
+DTSTAMP:20261121T182223Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Reception: Abhijeet & Neha
+LOCATION:Jasraj Baradia Seva Sadan\, Besides Kaivalya Dham\, Kumhari\, Dist. - Durg\, Chhattisgarh
+END:VEVENT
+END:VCALENDAR
